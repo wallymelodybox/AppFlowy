@@ -1,0 +1,156 @@
+2025-11-21T11:25:16.071Z INFO SharedStateManager initialized
+2025-11-21T11:25:16.072Z INFO [Migration] Checking for database migration...
+2025-11-21T11:25:17.632Z INFO [Migration] No migration needed
+2025-11-21T11:25:17.633Z INFO [MainProvider] Creating new MainProvider instance...
+2025-11-21T11:25:17.638Z INFO [c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4] Project root:
+2025-11-21T11:25:17.638Z INFO [c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\prisma\schema.prisma] Schema path:
+2025-11-21T11:25:17.642Z INFO [file:/pythagora/pythagora-core/data/database/pythagora.db] Database URL:
+2025-11-21T11:25:17.643Z INFO [true] Schema exists:
+2025-11-21T11:25:17.644Z INFO Running prisma generate first...
+2025-11-21T11:25:19.830Z INFO [Prisma schema loaded from prisma\schema.prisma
+
+✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 192ms
+
+] Prisma generate result:
+2025-11-21T11:25:19.831Z INFO Running prisma db push to sync schema...
+2025-11-21T11:25:22.458Z INFO [Prisma schema loaded from prisma\schema.prisma
+Datasource "db": SQLite database "pythagora.db" at "file:/pythagora/pythagora-core/data/database/pythagora.db"
+
+The database is already in sync with the Prisma schema.
+
+Running generate... (Use --skip-generate to skip the generators)
+[2K[1A[2K[GRunning generate... - Prisma Client
+[2K[1A[2K[G✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 185ms
+
+] Prisma db push result:
+2025-11-21T11:25:22.460Z INFO Is remote: false
+2025-11-21T11:25:22.461Z INFO Starting Local. Installation path: undefined
+2025-11-21T17:54:27.677Z INFO Closing entire Pythagora extension...
+2025-11-21T17:54:27.693Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new zF (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118217)
+    at eE.U (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122872)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120321)
+    at _y.g (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:39985)
+    at _y.executeCommand (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:39489)
+    at Object.executeCommand (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:204:118950)
+    at closeEntirePythagoraExtension (c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\out\extension.js:302:31)
+    at Object.deactivate (c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\out\extension.js:212:15)
+    at iX.gb (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12109)
+    at file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10223
+    at Array.map (<anonymous>)
+    at iX.bb (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10211)
+    at iX.terminate (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10489)
+    at zM.terminate (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at Ls (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:398:25910)
+    at MessagePortMain.<anonymous> (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:398:22368)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:5311)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2025-11-22T23:03:24.033Z INFO SharedStateManager initialized
+2025-11-22T23:03:24.034Z INFO [Migration] Checking for database migration...
+2025-11-22T23:03:25.491Z INFO [Migration] No migration needed
+2025-11-22T23:03:25.492Z INFO [MainProvider] Creating new MainProvider instance...
+2025-11-22T23:03:25.496Z INFO [c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4] Project root:
+2025-11-22T23:03:25.497Z INFO [c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\prisma\schema.prisma] Schema path:
+2025-11-22T23:03:25.498Z INFO [file:/pythagora/pythagora-core/data/database/pythagora.db] Database URL:
+2025-11-22T23:03:25.499Z INFO [true] Schema exists:
+2025-11-22T23:03:25.500Z INFO Running prisma generate first...
+2025-11-22T23:03:29.883Z INFO [Prisma schema loaded from prisma\schema.prisma
+
+✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 317ms
+
+] Prisma generate result:
+2025-11-22T23:03:29.884Z INFO Running prisma db push to sync schema...
+2025-11-22T23:03:32.972Z INFO [Prisma schema loaded from prisma\schema.prisma
+Datasource "db": SQLite database "pythagora.db" at "file:/pythagora/pythagora-core/data/database/pythagora.db"
+
+The database is already in sync with the Prisma schema.
+
+Running generate... (Use --skip-generate to skip the generators)
+[2K[1A[2K[GRunning generate... - Prisma Client
+[2K[1A[2K[G✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 259ms
+
+] Prisma db push result:
+2025-11-22T23:03:34.112Z INFO Is remote: false
+2025-11-22T23:03:34.114Z INFO Starting Local. Installation path: undefined
+2025-11-22T23:07:39.401Z INFO Closing entire Pythagora extension...
+2025-11-22T23:07:39.444Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new zF (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118217)
+    at eE.U (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122872)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120321)
+    at _y.g (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:39985)
+    at _y.executeCommand (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:39489)
+    at Object.executeCommand (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:204:118950)
+    at closeEntirePythagoraExtension (c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\out\extension.js:302:31)
+    at Object.deactivate (c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\out\extension.js:212:15)
+    at iX.gb (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12109)
+    at file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10223
+    at Array.map (<anonymous>)
+    at iX.bb (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10211)
+    at iX.terminate (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10489)
+    at zM.terminate (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at Ls (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:398:25910)
+    at MessagePortMain.<anonymous> (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:398:22368)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:5311)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
+2025-11-22T23:47:40.444Z INFO SharedStateManager initialized
+2025-11-22T23:47:40.445Z INFO [Migration] Checking for database migration...
+2025-11-22T23:47:42.477Z INFO [Migration] No migration needed
+2025-11-22T23:47:42.478Z INFO [MainProvider] Creating new MainProvider instance...
+2025-11-22T23:47:42.481Z INFO [c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4] Project root:
+2025-11-22T23:47:42.482Z INFO [c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\prisma\schema.prisma] Schema path:
+2025-11-22T23:47:42.482Z INFO [file:/pythagora/pythagora-core/data/database/pythagora.db] Database URL:
+2025-11-22T23:47:42.483Z INFO [true] Schema exists:
+2025-11-22T23:47:42.483Z INFO Running prisma generate first...
+2025-11-22T23:47:45.739Z INFO [Prisma schema loaded from prisma\schema.prisma
+
+✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 225ms
+
+] Prisma generate result:
+2025-11-22T23:47:45.740Z INFO Running prisma db push to sync schema...
+2025-11-22T23:47:48.342Z INFO [Prisma schema loaded from prisma\schema.prisma
+Datasource "db": SQLite database "pythagora.db" at "file:/pythagora/pythagora-core/data/database/pythagora.db"
+
+The database is already in sync with the Prisma schema.
+
+Running generate... (Use --skip-generate to skip the generators)
+[2K[1A[2K[GRunning generate... - Prisma Client
+[2K[1A[2K[G✔ Generated Prisma Client (6.16.2) to .\src\generated\prisma in 181ms
+
+] Prisma db push result:
+2025-11-22T23:47:49.261Z INFO Is remote: false
+2025-11-22T23:47:49.263Z INFO Starting Local. Installation path: undefined
+2025-11-22T23:47:51.730Z INFO Closing entire Pythagora extension...
+2025-11-22T23:47:51.772Z ERROR Error closing extension
+Error: Canceled
+Stack: Canceled: Canceled
+    at new zF (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:118217)
+    at eE.U (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:122872)
+    at Proxy.s.<computed>.n.charCodeAt.s.<computed> (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:120321)
+    at _y.g (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:39985)
+    at _y.executeCommand (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:39489)
+    at Object.executeCommand (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:204:118990)
+    at closeEntirePythagoraExtension (c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\out\extension.js:302:31)
+    at Object.deactivate (c:\Users\wally\.trae\extensions\pythagoratechnologies.pythagora-vs-code-2.5.4\out\extension.js:212:15)
+    at iX.gb (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12109)
+    at file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10223
+    at Array.map (<anonymous>)
+    at iX.bb (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10211)
+    at iX.terminate (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10489)
+    at zM.terminate (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:914)
+    at Ls (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:398:25910)
+    at MessagePortMain.<anonymous> (file:///c:/Users/wally/AppData/Local/Programs/Trae/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:398:22368)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:5311)
+    at Object.topLevelDomainCallback (node:domain:161:15)
+    at Object.callbackTrampoline (node:internal/async_hooks:128:24)
